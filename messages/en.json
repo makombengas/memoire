@@ -1,0 +1,179 @@
+{
+    "HomePage": {
+      "title": "Hello world!"
+    },
+    
+    "LanguageSwitcher": {
+      "switchTo": "Switch to {locale}"
+    },
+"Home": {
+    "title": "Let us pay tribute to the matriarch",
+    "name": "TENTCHOU",
+    "bornName": "born",
+    "secondName": "NGUEGNANG ANNE",
+    "year": "1941-2025",
+    "subtitle": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+    "psaume": "Psalm 23:4",
+     "logo": "Funeral",
+     "logoName": "TENTCHOU born NGUEGNANG ANNE "
+  },
+  "Nav":{
+    "nav": [
+      {
+        "id": 1,
+        "title": "Home",
+        "url": "/"
+      },
+      {
+        "id": 2,
+        "title": "Announcement",
+        "url": "#fairepart"
+      },
+      {
+        "id": 3,
+        "title": "Biography",
+        "url": "#biographie"
+      },
+      {
+        "id": 4,
+        "title": "Program",
+        "url": "#programme"
+      },
+      {
+        "id": 6,
+        "title": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "FairePart":{
+    "fairePart": [
+      {
+        "id": 0,
+        "title": "Announcement",
+        "subtitle": "Regretfully announce the passing of their daughter, mother, aunt, sister, wife, grandmother, and great-grandmother Mrs. Tentchou, born Nguegnang Anne, who passed away on 03.01.2025 in Douala after a long illness.",
+        "infosArray": [
+          "The large Boukato Tchakoutio family in Bazou",
+          "The large Yongwouo family in Bazou",
+          "The large Mekep Tentchou Michel family in Douala",
+          "The large Welesandjon family in Douala",
+          "The large Miba Djokoua and Yomba family in Bazou",
+          "The children of the late Tchoumen Claude in Batchenga and Douala",
+          "The Nana Tentchou Paul family in Germany",
+          "The Fifen Tentchou Celestine family in Douala"
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Announcement",
+        "infosArray": [
+          "The Monthé Tentchou Caroline family in Ireland",
+          "The Tchemen Tentchou Beatrice family in Germany",
+          "The Njiké Tentchou Sidonie family in Douala",
+          "The Tchato Tentchou Guy family in Germany",
+          "The Koloko Tentchou Levis family in Germany",
+          "The Yomba Tentchou Germaine family in Germany"
+        ]
+      }
+    ]
+  },
+  "Biographie":{
+    "biographie": {
+      "title": "Biography",
+      "subtitle": "Mrs. Tentchou, born Nguegnang Anne, born around 1941 in Bangoua to Djakoua and Yomba Marie. Leaves behind children and grandchildren.",
+      "secondTitle": "Professional and Associative Life",
+      "infosArray": [
+        "Merchant",
+        "Former member of EEC Grand-moulin",
+        "Honorary member of several associations"
+      ],
+      "image": "/images/mum.png"
+    }
+  },
+
+  "Programme":{
+    "programme": [
+      {
+        "id": 0,
+        "title": "Program",
+        "subtitle": "Love one another, take care of one another, and remain steadfast in faith. \"Do not fear, for I am with you; do not be dismayed, for I am your God; I will strengthen you and help you; I will uphold you with my righteous right hand.\"",
+        "infosArray": [
+          {
+            "id": 0,
+            "title": "Mon. 03.01 to 12 February 2025",
+            "subtitle": "Gathering at her home located on Nouvelle Route Grand-moulin."
+          },
+          {
+            "id": 1,
+            "title": "Thursday, 13 February 2025 at 12 PM",
+            "subtitle": "Viewing and removal of the body at Laquintinie Hospital"
+          },
+          {
+            "id": 2,
+            "title": "2 PM",
+            "subtitle": "Installation of the body at EEC Grand-moulin"
+          },
+          {
+            "id": 3,
+            "title": "4 PM",
+            "subtitle": "Vigil at her home in Grand-Moulin"
+          },
+          {
+            "id": 4,
+            "title": "Fri. 14.02 February 2025 at midnight",
+            "subtitle": "Departure of the body for Djonlap neighborhood via Bazou"
+          },
+          {
+            "id": 5,
+            "title": "8 AM",
+            "subtitle": "Arrival and installation of the body in Djontap (Bazou) with a vigil"
+          },
+          {
+            "id": 6,
+            "title": "Sat. 15.02 February 2025 at 9 AM",
+            "subtitle": "Arrival and installation of the family and guests"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Program",
+        "subtitle": "Regretfully announce the passing of their daughter, mother, aunt, sister, wife, grandmother, and great-grandmother Mrs. Tentchou, born Nguegnang Anne, who passed away on 03.01.2025 in Douala after a long illness.",
+        "infosArray": [
+          {
+            "id": 0,
+            "title": "Sat. 15 February 2025 at 10 AM",
+            "subtitle": "Religious celebration"
+          },
+          {
+            "id": 1,
+            "title": "11 AM",
+            "subtitle": "Testimonials"
+          },
+          {
+            "id": 2,
+            "title": "11:30 AM",
+            "subtitle": "Interment in strict family privacy in Njontap"
+          },
+          {
+            "id": 3,
+            "title": "12 PM",
+            "subtitle": "Reception"
+          }
+        ]
+      }
+    ]
+  },
+  "Contact": {
+    "title": "Contact",
+    "subtitle": "Contact-Gash",
+    "phone": "+237 671 40 94 34",
+     "mapTitle": "Family TENTCHOU",
+    "mapSubtitle": "New Route Grand-moulin"
+  }
+  
+  
+  
+  
+
+  }

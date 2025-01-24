@@ -1,0 +1,181 @@
+{
+    "HomePage": {
+      "title": "Hello Welt!"
+    },
+    
+    "LanguageSwitcher": {
+      "switchTo": "Switch to {locale}"
+    },
+    
+      "Home": {
+        "title": "Lasst uns der Matriarchin gedenken",
+        "name": "TENTCHOU",
+        "bornName": "geboren",
+        "secondName": "NGUEGNANG ANNE",
+        "year": "1941-2025",
+        "subtitle": "Auch wenn ich durch das Tal des Schattens des Todes gehe, fürchte ich kein Unglück, denn du bist bei mir; dein Stecken und dein Stab trösten mich.",
+        "psaume": "Psalm 23:4",
+         "logo": "Begräbnis",
+        "logoName": "TENTCHOU geboren NGUEGNANG ANNE "
+      },
+      "Nav":{
+        "nav": [
+          {
+            "id": 1,
+            "title": "Startseite",
+            "url": "/"
+          },
+          {
+            "id": 2,
+            "title": "Bekanntmachung",
+            "url": "#fairepart"
+          },
+          {
+            "id": 3,
+            "title": "Biografie",
+            "url": "#biographie"
+          },
+          {
+            "id": 4,
+            "title": "Programm",
+            "url": "#programme"
+          },
+          {
+            "id": 6,
+            "title": "Kontakt",
+            "url": "#contact"
+          }
+        ]
+      },
+      "FairePart":{
+        "fairePart": [
+          {
+            "id": 0,
+            "title": "Bekanntmachung",
+            "subtitle": "Bedauerlicherweise geben wir den Tod ihrer Tochter, Mutter, Tante, Schwester, Ehefrau, Großmutter und Urgroßmutter Frau Tentchou, geborene Nguegnang Anne, bekannt, die am 03.01.2025 in Douala nach langer Krankheit verstorben ist.",
+            "infosArray": [
+              "Die große Familie Boukato Tchakoutio in Bazou",
+              "Die große Familie Yongwouo in Bazou",
+              "Die große Familie Mekep Tentchou Michel in Douala",
+              "Die große Familie Welesandjon in Douala",
+              "Die große Familie Miba Djokoua und Yomba in Bazou",
+              "Die Kinder des verstorbenen Tchoumen Claude in Batchenga und Douala",
+              "Die Familie Nana Tentchou Paul in Deutschland",
+              "Die Familie Fifen Tentchou Celestine in Douala"
+            ]
+          },
+          {
+            "id": 1,
+            "title": "Bekanntmachung",
+            "infosArray": [
+              "Die Familie Monthé Tentchou Caroline in Irland",
+              "Die Familie Tchemen Tentchou Beatrice in Deutschland",
+              "Die Familie Njiké Tentchou Sidonie in Douala",
+              "Die Familie Tchato Tentchou Guy in Deutschland",
+              "Die Familie Koloko Tentchou Levis in Deutschland",
+              "Die Familie Yomba Tentchou Germaine in Deutschland"
+            ]
+          }
+        ]
+      },
+
+      "Biographie":{
+        "biographie": {
+          "title": "Biografie",
+          "subtitle": "Frau Tentchou, geborene Nguegnang Anne, geboren um 1941 in Bangoua als Tochter von Djakoua und Yomba Marie. Hinterlässt Kinder und Enkelkinder.",
+          "secondTitle": "Berufliches und Vereinsleben",
+          "infosArray": [
+            "Händlerin",
+            "Ehemaliges Mitglied der EEC Grand-moulin",
+            "Ehrenmitglied mehrerer Vereine"
+          ],
+          "image": "/images/mum.png"
+        }
+      },
+      "Programme":{
+        "programme": [
+          {
+            "id": 0,
+            "title": "Programm",
+            "subtitle": "Liebt einander, sorgt füreinander und bleibt standhaft im Glauben. \"Fürchte dich nicht, denn ich bin bei dir; sei nicht verzweifelt, denn ich bin dein Gott; ich stärke dich und helfe dir; ich halte dich mit meiner gerechten rechten Hand.\"",
+            "infosArray": [
+              {
+                "id": 0,
+                "title": "Mo. 03.01 bis 12. Februar 2025",
+                "subtitle": "Zusammenkunft in ihrem Haus an der Nouvelle Route Grand-moulin."
+              },
+              {
+                "id": 1,
+                "title": "Donnerstag, 13. Februar 2025 um 12 Uhr",
+                "subtitle": "Aufbahrung und Abholung des Körpers im Krankenhaus Laquintinie"
+              },
+              {
+                "id": 2,
+                "title": "14 Uhr",
+                "subtitle": "Aufbahrung des Körpers in der EEC Grand-moulin"
+              },
+              {
+                "id": 3,
+                "title": "16 Uhr",
+                "subtitle": "Totenwache in ihrem Haus in Grand-Moulin"
+              },
+              {
+                "id": 4,
+                "title": "Fr. 14.02 Februar 2025 um Mitternacht",
+                "subtitle": "Abfahrt des Körpers in das Viertel Djonlap über Bazou"
+              },
+              {
+                "id": 5,
+                "title": "8 Uhr",
+                "subtitle": "Ankunft und Aufbahrung des Körpers in Djontap (Bazou) mit Totenwache"
+              },
+              {
+                "id": 6,
+                "title": "Sa. 15.02 Februar 2025 um 9 Uhr",
+                "subtitle": "Ankunft und Aufstellung der Familie und Gäste"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "title": "Programm",
+            "subtitle": "Bedauerlicherweise geben wir den Tod ihrer Tochter, Mutter, Tante, Schwester, Ehefrau, Großmutter und Urgroßmutter Frau Tentchou, geborene Nguegnang Anne, bekannt, die am 03.01.2025 in Douala nach langer Krankheit verstorben ist.",
+            "infosArray": [
+              {
+                "id": 0,
+                "title": "Samstag, 15. Februar 2025 um 10 Uhr",
+                "subtitle": "Religiöse Feier"
+              },
+              {
+                "id": 1,
+                "title": "11 Uhr",
+                "subtitle": "Erfahrungsberichte"
+              },
+              {
+                "id": 2,
+                "title": "11:30 Uhr",
+                "subtitle": "Beerdigung in strenger familiärer Privatsphäre in Njontap"
+              },
+              {
+                "id": 3,
+                "title": "12 Uhr",
+                "subtitle": "Zwischenmahlzeit."
+              }
+            ]
+          }
+        ]
+      },
+      "Contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktieren Sie Gash",
+    "phone": "+237 671 40 94 34",
+    "mapTitle": "Familie TENTCHOU",
+    "mapSubtitle": "Neue Straße Grand-moulin"
+  }
+      
+      
+      
+      
+    
+    
+  }
